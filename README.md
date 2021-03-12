@@ -8,7 +8,7 @@ you need install Serial Bluetooth Terminal or make own apps :)
 Device ESP32 Wemos D1 Mini + HDC1080 Sensor
 MicroPython Firmware esp32-idf4-20210202-v1.14.bin (download here https://micropython.org/download/esp32/)
 
-How to usage:
+How to use:
 1. Copy main.py into your device
 2. Restart your device
 3. Connect the Android with Bluetooth of ESP32 in Serial Bluetooth Terminal apps
